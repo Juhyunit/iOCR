@@ -1,4 +1,5 @@
 '''
+    ver 1.0
     - 이미지 글자 추출 테스트
     cmd > tesseract path\name.png stdout
 
